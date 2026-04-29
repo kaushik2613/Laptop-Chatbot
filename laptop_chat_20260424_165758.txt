@@ -1,0 +1,17 @@
+Laptop Advisor Chat Export — 2026-04-24 16:57
+============================================================
+
+Advisor:
+Hey there! I'm your laptop advisor, powered by AI running locally.
+
+I've got 1020 laptops in my database and I'm here to help you find the perfect one.
+
+How would you like to search?
+
+  1️⃣  **Guide me** — I'll ask you 5 quick questions
+  2️⃣  **Just tell me** — describe what you need in your own words
+
+Type 1, 2, or just ask me anything!
+
+----------------------------------------
+
